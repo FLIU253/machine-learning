@@ -9,6 +9,9 @@
 * Calm
 * Contentment
 
+Columns removed:
+* duration and target
+
 list here:
 * https://www.vocabulary.com/articles/wl/get-into-the-mood-with-100-feeling-words/
 * https://examples.yourdictionary.com/mood-examples.html
