@@ -12,6 +12,12 @@
 Columns removed:
 * duration and target
 
+10 categories may be too much, bumped down the number to 4:
+* Happy
+* Calm
+* Sad
+* Anger
+
 list here:
 * https://www.vocabulary.com/articles/wl/get-into-the-mood-with-100-feeling-words/
 * https://examples.yourdictionary.com/mood-examples.html
