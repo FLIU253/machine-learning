@@ -5,3 +5,5 @@ https://www.springboard.com/blog/machine-learning-projects/
 https://www.ubuntupit.com/top-20-best-machine-learning-projects-for-beginner-to-professional/
 
 https://hackernoon.com/top-5-machine-learning-projects-for-beginners-47b184e7837f
+
+https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners
