@@ -1,0 +1,4 @@
+1. setup a conda environment: conda create --prefix ./env pandas numpy matplotlib scikit-learn in the project directory you want
+2. run conda activate + the environment link
+3. conda install jupyter notebook if it does not exist
+4. run jupyter notebook
