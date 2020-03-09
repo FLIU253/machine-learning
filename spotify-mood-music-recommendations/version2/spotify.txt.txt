@@ -1,0 +1,7 @@
+for info about variables see: https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/
+
+for mood:
+	0 = happy
+	1 = sad
+	2 = calm
+	3 = exciting
